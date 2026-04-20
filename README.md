@@ -7,7 +7,7 @@
 
 ## Make your own version :computer:
 
-:camera::camera::camera::camera::camera::camera::camera:
+:camera:
 *Start with Smile*:smile::smile:
 
 * Fork the repository
